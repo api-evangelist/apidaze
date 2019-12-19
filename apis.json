@@ -1,0 +1,62 @@
+{
+    "name": "APIdaze",
+    "description": "<p>We Enable Your On-Demand Communication Services. Add Real Time Voice, Video, Messaging into your VoIP, Web &amp; Mobile Apps. No CapEx. Pay as you grow. 100% Freedom.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apidaze-logo.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "have api",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apidaze\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "APIdaze",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apidaze-logo.jpg",
+            "humanURL": "http:\/\/apidaze.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apidaze-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apidaze-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/apidaze.io.\/blog"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developers.apidaze.io\/docs"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/developers.apidaze.io\/pricing\/pricing_fr"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apidaze"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.apidaze.io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apidaze.io"
+        }
+    ]
+}
